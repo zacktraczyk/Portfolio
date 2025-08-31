@@ -61,7 +61,7 @@ const projectItems: Array<ProjectType | ProjectHeaderType> = [
     title: 'CruzHacks 2024',
     technologies: ['fullstack', 'nodejs', 'typescript', 'react', 'firebase', 'tailwindcss'],
     previews: [cruzHacksHomepage, cruzHacksApplication, cruzHacksSpeakers, cruzHacksStatistics],
-    site: 'https://cruzhacks.com/',
+    site: 'https://2024.cruzhacks.com/',
     description:
       'As lead engineer for CruzHacks in 2024, I was responsible for the development of the landing page and event tooling for the 700+ hackathon applicants. I worked with a team of 5 engineers to reskin the website, create a new registration system, and implement a new admin dashboard and user flow.',
   },
